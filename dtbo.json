@@ -1,0 +1,27 @@
+{
+  "info" : {
+    "output" : "dtbo.img",
+    "json" : "dtbo.json",
+    "imageSize" : 71824
+  },
+  "header" : {
+    "totalSize" : 68067,
+    "headerSize" : 32,
+    "entrySize" : 32,
+    "entryCount" : 1,
+    "entryOffset" : 32,
+    "pageSize" : 2048,
+    "version" : 0
+  },
+  "dtEntries" : [ {
+    "sequenceNo" : 0,
+    "entrySize" : 68003,
+    "entryOffset" : 64,
+    "id" : 0,
+    "rev" : 0,
+    "flags" : 0,
+    "reserved1" : 0,
+    "reserved2" : 0,
+    "reserved3" : 0
+  } ]
+}
